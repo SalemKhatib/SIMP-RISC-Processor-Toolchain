@@ -1,0 +1,6 @@
+﻿  sim.c
+C:\Users\khali\OneDrive\Desktop\projects\omar_proj\sim\sim\sim.c(115,9): warning C4098: 'read_irq2in': 'void' function returning a value
+C:\Users\khali\OneDrive\Desktop\projects\omar_proj\sim\sim\sim.c(125,9): warning C4098: 'read_irq2in': 'void' function returning a value
+C:\Users\khali\OneDrive\Desktop\projects\omar_proj\sim\sim\sim.c(137,17): warning C4098: 'read_irq2in': 'void' function returning a value
+C:\Users\khali\OneDrive\Desktop\projects\omar_proj\sim\sim\sim.c(383,5): warning C4098: 'fetch_decode_execute': 'void' function returning a value
+  sim.vcxproj -> C:\Users\khali\OneDrive\Desktop\projects\omar_proj\sim\x64\Debug\sim.exe
